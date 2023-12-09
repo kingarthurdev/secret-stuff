@@ -15,5 +15,8 @@ https://github.com/scipag/HardeningKitty
 # Another script for ubuntu
 https://github.com/Cloudneeti/os-harderning-scripts/blob/master/Ubuntu18_04/Azure_CSBP_Ubuntu18_04_Remediation.sh
 : 
+# Note regarding ansible ubunto script:
+This script needs ansible installed to work, idk if worth the effort. 
+https://www.linuxtechi.com/how-to-install-ansible-on-ubuntu/     <-- this tells how to install ansible 
 
 
