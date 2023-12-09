@@ -23,11 +23,11 @@ This script needs ansible installed to work, idk if worth the effort.
 https://www.linuxtechi.com/how-to-install-ansible-on-ubuntu/     <-- this tells how to install ansible 
 
 # Other resources: BE SURE TO SKIM THROUGH SCRIPTS, AS MANY CHANGE USERNAMES, USERS, AND PASSWORDS!!!!!
-Good basic checklist for linux (supposedly got 400/400pts): https://github.com/Forty-Bot/linux-checklist/blob/master/README.md
-CAREFUL, this windows scripts changes user creds!!!!!: https://github.com/xFaraday/EzScript/blob/master/ezScript.ps1
-General script for many systems: https://github.com/BaiqingL/CyberPatriotScripts/tree/master/Windows
-Pretty reliable script that hasnt killed us yet: https://github.com/ponkio/CyberPatriot
-Interesting python based scripts for linux and windows, will install python and git, then run. Read the readme: https://github.com/malvern-cads/centsecure/blob/master/scripts/install.sh
+Good basic checklist for linux (supposedly got 400/400pts): https://github.com/Forty-Bot/linux-checklist/blob/master/README.md  
+CAREFUL, this windows scripts changes user creds!!!!!: https://github.com/xFaraday/EzScript/blob/master/ezScript.ps1  
+General script for many systems: https://github.com/BaiqingL/CyberPatriotScripts/tree/master/Windows  
+Pretty reliable script that hasnt killed us yet: https://github.com/ponkio/CyberPatriot  
+Interesting python based scripts for linux and windows, will install python and git, then run. Read the readme: https://github.com/malvern-cads/centsecure/blob/master/scripts/install.sh  
 
 
 
