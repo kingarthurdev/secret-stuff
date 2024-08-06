@@ -1,5 +1,7 @@
 # quick note for windows:
 install malwarebytes, run a scan WITH THE ROOTKIT DETECTION SETTING ENABLED!!!!!!!!
+In order to find some pretty interesting info abt existing group policy settings, run this command in cmd prompt: gpresult /h report.html
+That command will generate a HTML file with all the info about preconfigured settings in the current directory. 
 
 # Repo for scripts for that one competition (that can't be named or other teams will steal our scripts)
 Download and unzip the appropriate files for your system, follow the readme in each of the zip files 
