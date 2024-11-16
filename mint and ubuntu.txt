@@ -1,3 +1,6 @@
 mint + other linux things: 
 
 https://github.com/BiermanM/CyberPatriot-Scripts
+
+
+https://docs.vmware.com/en/vRealize-Operations/8.10/com.vmware.vcom.scg.doc/GUID-07AB31D9-8F7D-4FD8-B3D5-FFB064CFFC3E.html
